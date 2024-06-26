@@ -1,1 +1,1 @@
-# pip-tutorial
+# A tutorial on packaging Python projects
